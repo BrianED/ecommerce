@@ -1,0 +1,55 @@
+#Div1
+{
+	border-style: solid;
+    border-width: 5px;
+	border-color: red;
+width:800px;
+margin:0 auto;
+overflow:hidden;
+float:left;
+}
+
+#Div2
+{
+	border-style: solid;
+    border-width: 5px;
+	border-color: red;
+width:100%;
+float:left;
+}
+
+#Div3
+{
+	border-style: solid;
+    border-width: 5px;
+	border-color: red;
+width:100%;
+clear:both;
+}
+
+#Div4, #Div6
+{
+	border-style: solid;
+    border-width: 5px;
+	border-color: red;
+float:left;
+width:30%;
+}
+
+#Div5
+{
+	border-style: solid;
+    border-width: 5px;
+	border-color: red;
+float:left;
+width:40%;
+}
+
+#Div7
+{
+	border-style: solid;
+    border-width: 5px;
+	border-color: red;
+width:70%;
+margin:50px auto;
+}
